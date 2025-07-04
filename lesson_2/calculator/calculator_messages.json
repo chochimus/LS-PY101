@@ -1,0 +1,42 @@
+{
+  "en": {
+    "welcome": "Welcome to Calculator!",
+    "invalid_number": "Hmm... that doesn't look like a valid number.",
+    "first_number": "What's the first number?",
+    "second_number": "What's the second number?",
+    "operation": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+    "invalid_operation": "You must choose 1, 2, 3, or 4",
+    "result": "The result is ",
+    "restart": "Would you like to perform another calculation? (y/n) "
+  },
+  "es": {
+    "welcome": "¡Bienvenido a la calculadora!",
+    "invalid_number": "Hmm... eso no parece un número válido.",
+    "first_number": "¿Cuál es el primer número?",
+    "second_number": "¿Cuál es el segundo número?",
+    "operation": "¿Qué operación te gustaría realizar?\n1) Sumar 2) Restar 3) Multiplicar 4) Dividir",
+    "invalid_operation": "Debes elegir 1, 2, 3 o 4",
+    "result": "El resultado es {output}",
+    "restart": "¿Te gustaría hacer otro cálculo? (s/n)"
+  },
+  "fr": {
+    "welcome": "Bienvenue dans la calculatrice !",
+    "invalid_number": "Hmm... ce n'est pas un nombre valide.",
+    "first_number": "Quel est le premier nombre ?",
+    "second_number": "Quel est le deuxième nombre ?",
+    "operation": "Quelle opération souhaitez-vous effectuer ?\n1) Addition 2) Soustraction 3) Multiplication 4) Division",
+    "invalid_operation": "Vous devez choisir 1, 2, 3 ou 4",
+    "result": "Le résultat est {output}",
+    "restart": "Voulez-vous effectuer un autre calcul ? (o/n)"
+  },
+  "ja": {
+    "welcome": "電卓へようこそ！",
+    "invalid_number": "うーん…有効な数字ではないようです。",
+    "first_number": "最初の数字は何ですか？",
+    "second_number": "2番目の数字は何ですか？",
+    "operation": "どの演算を行いますか？\n1) 加算 2) 減算 3) 乗算 4) 除算",
+    "invalid_operation": "1、2、3、または4を選択してください。",
+    "result": "結果は {output} です",
+    "restart": "もう一度計算しますか？（y/n）"
+  }
+}
