@@ -21,9 +21,9 @@ def get_valid_float(prompt_message):
 prompt('Welcome to Motage Calculator!')
 
 while True:
-  loan_amount = get_valid_float('Input your loan ammount (00.00): ')
-  apr = get_valid_float('Input your apr percent (12.5 for 12.5%): ') / 100
-  loan_years = get_valid_float('Input duration of loan years: ')
+  loan_amount = get_valid_float('Enter your loan ammount (e.g. 100.00): ')
+  apr = get_valid_float('Enter your APR percent (e.g 12.5 for 12.5%): ') / 100
+  loan_years = get_valid_float('Enter loan duration in years: ')
   loan_duration = (loan_years  * 12)
   interest_rate = apr / 12
 
