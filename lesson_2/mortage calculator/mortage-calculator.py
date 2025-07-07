@@ -1,5 +1,5 @@
 def prompt(message):
-  print(f'=>{message}')
+  print(f'=> {message}')
 
 def valid_float(input):
   try:
@@ -18,7 +18,7 @@ def get_valid_float(prompt_message):
   return float(number)
 
 
-prompt('Welcome to Motage Calculator!')
+prompt('Welcome to Mortgage Calculator!')
 
 while True:
   loan_amount = get_valid_float('Enter your loan ammount (e.g. 100.00): ')
